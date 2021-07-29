@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsoni03" alt="rajsoni03" /> </p>
 
-- 🌱 I’m currently learning **Generative adversarial networks**
-
+<!-- - 🌱 I’m currently learning **Generative adversarial networks**
+ -->
 - 📫 How to reach me **rajksoni029@gmail.com**
 
 <p align="left">
