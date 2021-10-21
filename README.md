@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Rajkumar Soni</h1>
-<h3 align="center">A passionate AI Researcher from India</h3>
+<!-- <h3 align="center">A passionate AI Researcher from India</h3> -->
 
-<p align="left">I am an AI and Data Science enthusiast with holistic knowledge of Machine learning, Deep learning and software development. I am a self-motivated person and I try to exceed my superior's expectations with high-quality work. Being a fast learner, I quickly pick up technical knowledge related to my project.</p>
+<p align="left">I am an AI and Computer Vision enthusiast with holistic knowledge of Machine Learning, Deep Learning and Software Development. I am a self-motivated person and I try to exceed my superior's expectations with high-quality work. Being a fast learner, I quickly pick up technical knowledge related to my project.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsoni03" alt="rajsoni03" /> </p>
 
