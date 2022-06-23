@@ -38,33 +38,12 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsoni03&show_icons=true" alt="rajsoni03" /></p> -->
-
-
-
-
-
-
-
-
-
 <br />
 
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni03&layout=compact" alt="rajsoni03" /></p> -->
-
-
 ![GitHub metrics](https://metrics.lecoq.io/Rajsoni03) 
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajsoni03&show_icons=true)   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rajsoni03)  
 
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni03&layout=compact) 
-
-
-
-
-
