@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning **Generative adversarial networks**
  -->
-- 📫 How to reach me **rajksoni029@gmail.com**
+<!-- - 📫 How to reach me **rajksoni029@gmail.com** -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/rajkuma12454784" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajkuma12454784" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajkumar-soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajkumar-soni" height="30" width="40" /></a>
+<a href="https://twitter.com/Raj_soni03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajkuma12454784" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajsoni03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rajsoni03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8uv5fckmnz4ceprnlr5mzg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc8uv5fckmnz4ceprnlr5mzg" height="30" width="40" /></a>
 </p>
